@@ -1,0 +1,50 @@
+body{
+	background-color: #979b9e;
+}
+h1{
+	font-family: arial;
+	text-align: center;
+	color: rgb(55, 188, 233);
+	text-transform: uppercase;
+}
+
+img{
+
+  	width:30%;
+  	height:30%;
+	display:block;
+	margin:auto;
+	border-radius: 15px;
+}
+
+h3{
+	font-family: italic	;
+	text-align: left;
+	color: rgb(32, 31, 31);
+	font-size: 20px;
+
+}
+
+h4{
+    text-align: left;
+	font-weight: bold;	
+	color: deepskyblue;
+}
+
+
+p{
+ 	font-family:  arial;
+ 	text-align: left;
+ 	color: rgb(7, 7, 7);
+
+}
+.destacados{
+		color: rgb(194, 231, 27);
+		font-weight: bolder;
+}
+
+a{
+	text-decoration: none;	
+	color: rgb(49, 230, 12);
+}
+
